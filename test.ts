@@ -1,3 +1,9 @@
+import{data2} from "./module-dj";
+import{data} from "./module-file";
+import{heen} from "./module-heen";
+console.log(data);
+console.log(data2);
+console.log(heen);
 const a =1;
 const b= 2;
 

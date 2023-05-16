@@ -1,0 +1,1 @@
+export const data2 : string = "dj";
